@@ -5,13 +5,13 @@ A smart tea machine that pulls your tea bag out of the hot water when the tea is
 
 
 #HARDWARE
-1x ESP8266 NodeMCU v2
-1x Rotary Encoder
-1x 12er LED Ring
-1x Piezo Buzzer
-1x Small Breadboard
-1x USB to Micro USB Kabel
-Jumper Wires (Male to Male & Male to Female)
+1x ESP8266 NodeMCU v2 </br>
+1x Rotary Encoder</br>
+1x 12er LED Ring</br>
+1x Piezo Buzzer</br>
+1x Small Breadboard</br>
+1x USB to Micro USB Kabel</br>
+Jumper Wires (Male to Male & Male to Female)</br>
 
 #Code
 //LED
