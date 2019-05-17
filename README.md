@@ -16,7 +16,7 @@ A smart tea machine that pulls your tea bag out of the hot water when the tea is
 Jumper Wires (Male to Male & Male to Female)</br>
 
 # Code
-```python
+```C
 //LED
 #include <Adafruit_NeoPixel.h>
 #define ledpin D2
