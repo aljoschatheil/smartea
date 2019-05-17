@@ -3,8 +3,10 @@
 <hr>
 A smart tea machine that pulls your tea bag out of the hot water when the tea is ready. 
 
+<hr>
 
-#HARDWARE
+#HARDWARE 
+
 1x ESP8266 NodeMCU v2 </br>
 1x Rotary Encoder</br>
 1x 12er LED Ring</br>
@@ -14,6 +16,7 @@ A smart tea machine that pulls your tea bag out of the hot water when the tea is
 Jumper Wires (Male to Male & Male to Female)</br>
 
 #Code
+'''
 //LED
 #include <Adafruit_NeoPixel.h>
 #define ledpin D2
@@ -160,6 +163,7 @@ void loop() {
 
 }
 
+'''
 
 # Links
 [Portfoilio](https://www.aljoschatheil.de/)
