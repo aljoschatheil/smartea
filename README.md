@@ -5,7 +5,7 @@ A smart tea machine that pulls your tea bag out of the hot water when the tea is
 
 <hr>
 <img src="https://www.aljoschatheil.de/IMG_4449.jpg" alt="IMG1" title="" />
-<img src="https://www.aljoschatheil.de/IMG_4455.png" alt="IMG2" title="" />
+<img src="https://www.aljoschatheil.de/IMG_4455.jpg" alt="IMG2" title="" />
 <hr>
 
 # Components 
