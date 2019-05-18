@@ -5,6 +5,21 @@ A smart tea machine that pulls your tea bag out of the hot water when the tea is
 
 <hr>
 
+### Case
+1. Cut the MDF-case.ai out of 3mm MDF with a lasercutter </br>
+2. Cut the MDF-rotary-mounting.ai out of 3mm MDF with a lasercutter </br>
+3. Cut the acryl.ai out of thin (2-4mm) Acryl glas or plexiglas </br>
+4. Print the 3D-Print-beutelhalterung.stl on your 3D-printer </br>
+
+### Electronics
+5. Wire all the components </br>
+6. Run the smartee-sketch-19-05-18.ino code on your microcontroller </br>
+
+DONE
+
+
+<hr>
+
 # HARDWARE 
 
 1x ESP8266 NodeMCU v2 </br>
