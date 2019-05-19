@@ -1,4 +1,4 @@
-<img src="https://www.aljoschatheil.de/smartee.png" alt="LOGO" title="" />
+<img src="https://www.aljoschatheil.de/smartea-logo-trans.png" alt="LOGO" title="" />
 
 <hr>
 A smart tea machine that pulls your tea bag out of the hot water when the tea is ready. 
