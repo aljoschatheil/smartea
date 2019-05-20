@@ -29,7 +29,7 @@ Ca. 2m² 3mm MDF
 
 ### Electronics
 5. Wire all the components </br>
-6. Run the smartee-sketch-19-05-18.ino code on your microcontroller </br>
+6. Run the smartea-sketch.ino code on your microcontroller </br>
 
 DONE
 
